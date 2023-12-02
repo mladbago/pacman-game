@@ -1,0 +1,31 @@
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe.config
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\bin\Debug\PacMan.pdb
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\MainWindow.g.cs
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\App.g.cs
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan_MarkupCompile.cache
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan_MarkupCompile.lref
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\MainWindow.baml
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.g.resources
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
+D:\Studia\Studia\V Semestr\Programowanie C# i NET\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\MainWindow.g.cs
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\App.g.cs
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan_MarkupCompile.cache
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan_MarkupCompile.lref
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\MainWindow.baml
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.g.resources
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Blagoja\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
